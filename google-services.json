@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993930877163",
+    "project_id": "arac-anomali-bildirim",
+    "storage_bucket": "arac-anomali-bildirim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993930877163:android:430c82df83bbddc58fc6ae",
+        "android_client_info": {
+          "package_name": "com.ece.aractakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO86yStNxN4frC-yz107SdpQB426xBznA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
